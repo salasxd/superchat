@@ -1,5 +1,5 @@
 # Super chat
-###### by SalasCris
+###### by SalasCris Beta
 
 ### Comandos:
 #### /chat [tipo]
